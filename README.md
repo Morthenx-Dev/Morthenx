@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morthenx&show_icons=true&locale=en&layout=compact" alt="morthenx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morthenx&show_icons=true&locale=en" alt="morthenx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=morthenx&show_icons=true&locale=en" alt="morthenx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morthenx&" alt="morthenx" /></p>
 
